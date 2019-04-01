@@ -1,0 +1,38 @@
+body {
+	background-color:grey;
+	font:arial;
+	color:white;
+}
+#tit {
+	text-align:center;
+}
+.fot1 {
+	text-align:center;
+}
+.fot2 {
+	text-align:center;
+}
+#ti2{
+	text-align:center;
+}
+#text {
+	text-align:center;
+}
+p {
+	font:arial;
+	color:black;
+}
+.fot1 > img{
+	width: 500px;
+	height: 350px;
+	object-fit: none;
+	background-color: black;
+	border bottom:10px dashed violet;
+}
+
+.fot2 > img{
+	width: 500px;
+	height: 350px;
+	object-fit: cover;
+	border bottom:10px dashed violet;
+}
